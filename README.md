@@ -1,5 +1,3 @@
 # SlideShot
---- Setup Instructions ---
-1.Clone or download the repository to your local machine.
-2.Install the required Python libraries.
-3.Make sure the slide_extractor.py file is in the same directory as the script or correctly referenced.
+
+The SlideShot is a desktop application built using Python and Tkinter that allows users to extract slides from a YouTube video. This tool helps in extracting key frames (slides) from videos, based on a given frame interval and similarity threshold, and generates a PDF from the extracted slides.
